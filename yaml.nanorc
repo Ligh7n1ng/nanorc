@@ -22,5 +22,3 @@ color brightblue "(^|[[:space:]])#.*$"
 
 # Trailing whitespace
 color ,red "[[:space:]]+$"
-
-tabgives "  "
